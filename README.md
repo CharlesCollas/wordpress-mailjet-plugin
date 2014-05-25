@@ -1,4 +1,4 @@
-Mailjet for Wordpress
+[API v1] Mailjet for Wordpress
 =====================
 
 The Mailjet plugin allows you to reconfigure the wp_mail() function to use Mailjet SMTP and easily manage your contacts lists with signup widgets.
